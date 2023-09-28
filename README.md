@@ -1,5 +1,5 @@
 # Simple Django App
-This is a simple, minimal Django app intended to help understand the main aspects of working with Django. A rich text-editor created using the popular framework Django.
+A rich yet simple Django text-editor app. 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
