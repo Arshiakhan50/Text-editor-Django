@@ -1,5 +1,5 @@
 # Simple Django App
-A rich yet simple Django text-editor app. The purpose of this project was to explore how to implement a Django app while implementing HTML, JQuery and SQLite database migrations
+A rich yet simple Django text-editor app. The purpose of this project was to explore how to implement a Django app while implementing HTML, JQuery and SQLite database migrations. You may wish elevate user privileges by running this app with superuser.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
